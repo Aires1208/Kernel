@@ -1,7 +1,7 @@
 package com.navercorp.pinpoint.web.view;
 
 /**
- * Created by 10183966 on 7/25/16.
+ * Created by aires on 7/25/16.
  */
 
 import com.fasterxml.jackson.databind.annotation.JsonSerialize;

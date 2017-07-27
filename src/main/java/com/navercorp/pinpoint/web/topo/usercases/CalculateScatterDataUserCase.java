@@ -9,7 +9,7 @@ import java.util.List;
 import static com.google.common.collect.Lists.newArrayList;
 
 /**
- * Created by 10183966 on 7/21/16.
+ * Created by aires on 7/21/16.
  */
 public class CalculateScatterDataUserCase {
 

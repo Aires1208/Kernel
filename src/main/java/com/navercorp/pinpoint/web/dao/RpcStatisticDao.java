@@ -6,7 +6,7 @@ import com.navercorp.pinpoint.web.vo.Range;
 import java.util.List;
 
 /**
- * Created by ${10183966} on 11/24/16.
+ * Created by ${aires} on 11/24/16.
  */
 public interface RpcStatisticDao {
     List<XRpc> getXRpcList(String appliactionName, Range range);

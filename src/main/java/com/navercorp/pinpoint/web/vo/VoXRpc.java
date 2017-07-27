@@ -1,7 +1,7 @@
 package com.navercorp.pinpoint.web.vo;
 
 /**
- * Created by ${10183966} on 11/29/16.
+ * Created by ${aires} on 11/29/16.
  */
 public class VoXRpc {
     private String method;

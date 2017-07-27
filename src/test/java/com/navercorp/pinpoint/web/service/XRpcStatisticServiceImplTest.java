@@ -12,7 +12,7 @@ import org.springframework.test.context.web.WebAppConfiguration;
 import java.util.*;
 
 /**
- * Created by ${10183966} on 11/24/16.
+ * Created by ${aires} on 11/24/16.
  */
 @RunWith(SpringJUnit4ClassRunner.class)
 @WebAppConfiguration

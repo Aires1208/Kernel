@@ -5,7 +5,7 @@ import com.navercorp.pinpoint.web.vo.VoXRpc;
 import java.util.List;
 
 /**
- * Created by ${10183966} on 11/24/16.
+ * Created by ${aires} on 11/24/16.
  */
 public class XRpcs {
     private List<VoXRpc> URLAggregation;

@@ -4,7 +4,7 @@ package com.navercorp.pinpoint.web.vo;
 import com.alibaba.fastjson.JSONObject;
 
 /**
- * Created by ${10183966} on 11/24/16.
+ * Created by ${aires} on 11/24/16.
  */
 
 public class Result {

@@ -6,7 +6,7 @@ import com.navercorp.pinpoint.common.topo.domain.TopoLine;
 import java.util.Comparator;
 
 /**
- * Created by 10183966 on 7/25/16.
+ * Created by aires on 7/25/16.
  */
 public class XTopoLineComparable implements Comparator<TopoLine> {
     public static boolean sortASC = true;
